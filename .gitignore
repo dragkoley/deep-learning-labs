@@ -1,3 +1,5 @@
 .idea
 .venv
 *.iml
+lab1/processed/
+lab1/raw/
