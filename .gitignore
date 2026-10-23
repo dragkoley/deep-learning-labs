@@ -3,3 +3,5 @@
 *.iml
 lab1/processed/
 lab1/raw/
+lab2/data
+lab2/checkpoints
